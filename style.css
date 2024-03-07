@@ -444,7 +444,7 @@ section{
 /* newsletter section starts */
 
 .newsletter{
-    background: url(../images/wood.jpg) no-repeat;
+    background: url(images/wood.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
