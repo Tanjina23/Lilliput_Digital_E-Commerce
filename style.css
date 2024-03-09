@@ -510,23 +510,23 @@ section{
     flex-wrap: wrap;
   }
   
-  .left-section {
+  .right-section {
     flex: 1;
     padding: 20px;
     /* padding-top: 10rem; */
   }
-  .left-section h2{
+  .right-section h2{
       color: var(--dark-color);
       font-size: 3rem;
       padding: .5rem;
   }
-  .left-section p{
+  .right-section p{
     color: var(--light-color);
     padding: .5rem;
     font-size: 1.5rem;
   }
   
-  .right-section {
+  .left-section {
     flex: 1;
     padding: 20px;
   }
